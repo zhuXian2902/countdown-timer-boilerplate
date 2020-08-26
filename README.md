@@ -4,7 +4,7 @@
 
 ### clone this repo from your remote 
 
-### make changes
+### make changes and push
 
 ### push into your remote
 
