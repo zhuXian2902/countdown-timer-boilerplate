@@ -9,7 +9,7 @@ steps:
       - npm install -g jest
       - npm install -g enzyme-adapter-react-16
       - git clone https://github.com/unsortedArray/countdown-timer.git
-      - cd countdown-timer.git
+      - cd countdown-timer
       - cp -a ./ ../src/__tests__
       - cd ..
       - npm install
